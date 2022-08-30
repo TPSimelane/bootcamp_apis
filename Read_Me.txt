@@ -1,0 +1,1 @@
+Always create a public folder to save the index.html file when using expressJS.
